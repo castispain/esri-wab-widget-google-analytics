@@ -4,9 +4,8 @@
   "2D": true,
   "3D": false,
   "platform": "HTML",
-  "version": "0.0.2",
-  "wabVersion": "2.1.0",
-  "author": "Matthew Lewis, modifications by Ian Grasshoff",
+  "version": "0.0.1",
+  "author": "Matthew Lewis",
   "description": "Google Analytics",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
@@ -15,7 +14,6 @@
     "hasLocale": true,
     "hasStyle": true,
     "hasConfig": true,
-    "hasUIFile": false,
-    "openAtStart": true
+    "hasUIFile": true
   }
 }
